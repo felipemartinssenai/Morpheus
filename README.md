@@ -2,10 +2,10 @@
 
 Passos...
 
-Faça download do projeto
-Importar para o netbens
-Configurar servidor GlassFish
-Iniciar o servidor
-OK, já está pronto para o uso. 
+1 - Faça download do projeto
+2 - Importar para o netbens
+3 - Configurar servidor GlassFish
+4 - Iniciar o servidor
+5 - OK, já está pronto para o uso. 
 
 At Felipe Martins.
